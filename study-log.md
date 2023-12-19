@@ -1,5 +1,20 @@
 # study-log
 
+## 2023/12/19
+
+1. 完了
+
+## 2023/12/18
+
+1. ruby は typescript に比べてエラーが表示されない。同じ def があっても OK（エラーなし）。
+2. curd は prisma に比べて簡単な気がする。
+3. <%=%>がまだ慣れなくてタイプミス多し…。
+4. 削除ボタンが表示されないエラー。
+   （エラー）undefined local variable or method `delete'
+   （原因）  
+    〇　 method: :delete 　  
+    ✕ 　 method: delete
+
 ## 2023/12/17
 
 1. スニペット拡張インストール

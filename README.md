@@ -2,7 +2,8 @@
 
 Ruby on Rails 入門  
 youtube.com/watch?v=CfdRXSrwLDo  
-を参考にさせていただき勉強のため作成しました。
+を参考にさせていただき勉強のため作成しました。  
+[📖StudyLog](./study-log.md)
 
 # Objective
 
